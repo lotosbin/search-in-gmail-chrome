@@ -1,0 +1,10 @@
+{
+  "name": "Search In Mail",
+  "description": "Search Seleted In Mail",
+	"icons": { 
+          "128": "./res/icon/icon128.png" },
+  "version": "0.3",
+  "permissions": ["contextMenus"],
+  "background_page": "background.html",
+  "content_security_policy": "default-src 'self'"
+}
